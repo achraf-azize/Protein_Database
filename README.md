@@ -4,7 +4,7 @@ Protein_Database
 This project is an implementation based on Article [1]. The method
 is based on the rapid identification of small structural patterns. Two complex structures
 that share a sufficient number of small motives in common, will be considered likely to
-similar. This method thus resembles the word bag techniques [3] that are used in the following cases
+similar. This method thus resembles the word bag techniques that are used in the following cases
 for textual documents.
 
 This repo was used to create a protein database, where every protein is represented by a 13-dimension vector, as explained in [1]
